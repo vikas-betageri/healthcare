@@ -7,16 +7,6 @@ yarn-error.log
 dist
 build
 
-# Logs
-*.log
-logs
-*.out
-*.err
-
-# Env
+# Environment
 .env
-.env.local
-
-# OS files
 .DS_Store
-Thumbs.db
